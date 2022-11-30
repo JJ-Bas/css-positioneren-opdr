@@ -1,0 +1,8 @@
+.recipe-card {
+    /* "auto" aan de zijkanten zorgt ervoor dat het element in het midden komt te staan*/
+    margin: 80px auto;
+    /* Dit element heeft een vaste breedte van 350 pixels */
+    width: 350px;
+}
+
+/* - Vul dit document aan met jouw eigen css! - */
