@@ -5,8 +5,7 @@ receptenkaart [opdracht 1](#opdracht-1) en daarna met een [product uit een websh
 er niet alleen voor. Door de bijgevoegde stappenplannen te volgen bereik je het gewenste eindresultaat.
 
 Je kunt deze opdracht maken door het project te clonen of te downloaden naar jouw eigen computer via deze GitHub
-repository. De uitwerkingen staan op de branch _uitwerkingen_. Wanneer je liever handmatig een eigen project opzet, mag
-dit ook. Zorg dan dat je alle HTML in jouw HTML-bestand plaatst én alle afbeelding handmatig in jouw project opslaat.
+repository. De uitwerkingen staan op de branch _uitwerkingen_.
 
 ## Opdracht 1
 
