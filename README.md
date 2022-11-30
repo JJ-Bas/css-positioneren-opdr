@@ -18,7 +18,7 @@ Je vindt de opdracht in de map `opdracht-1`. Deze map bevat de volgende bestande
 * Een `assets`-map met daarin de vier icoontjes die je nodig hebt én de afbeelding van de pastasalade;
 * `index.html` met daarin een (bijna) lege body: deze vul jij aan met jouw uitwerkingen;
 * `styles.css`: dit bestand is, op één class na, nog leeg.
-* 
+
 ### Stappenplan
 
 1. Begin met de opzet van het CSS-document:
@@ -48,8 +48,9 @@ Je vindt de opdracht in de map `opdracht-1`. Deze map bevat de volgende bestande
 ## Opdracht 2
 
 ### Eindresultaat
-Je vindt de opdracht in de map `opdracht-2`. Deze map bevat de volgende bestanden:
+
 ![Screenshot opdracht 2](./opdracht-2/assets/screenshot.png)
+Je vindt de opdracht in de map `opdracht-2`. Deze map bevat de volgende bestanden:
 * Een `assets`-map met daarin het hart-icoontje en de afbeelding van het model met de blazer;
 * `index.html` met daarin een (bijna) lege body: deze vul jij aan met jouw uitwerkingen;
 * `styles.css`: dit bestand is nog leeg.
