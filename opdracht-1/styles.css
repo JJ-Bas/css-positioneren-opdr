@@ -1,13 +1,34 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
+* {
+    box-sizing: content-box;
+}
+
 .recipe-card {
-    /* "auto" aan de zijkanten zorgt ervoor dat het element in het midden komt te staan*/
+    /* "auto" aan de zijkanten zorgt ervoor dat het element in het midden komt te staan
+    #F7F7F7
+    #d3d3d3    */
     margin: 80px auto;
     /* Dit element heeft een vaste breedte van 350 pixels */
     width: 350px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 8px grey;
+    overflow: hidden
 }
 
-body{
+body {
     font-family: 'Poppins', sans-serif;
+    background-color: lightblue;
+}
+
+span{
+
+}
+#past-sal{
+    position: relative;
+    width: 100%;
+}
+h2{
+    font-size: 14px;
 }
 /* - Vul dit document aan met jouw eigen css! - */
